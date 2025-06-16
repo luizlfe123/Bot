@@ -1,0 +1,7 @@
+bot_apostas_replit_web.py
+config.py
+db.py
+requirements.txt
+templates/painel.html
+static/estilo.css
+.env.example
